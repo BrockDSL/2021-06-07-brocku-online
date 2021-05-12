@@ -78,7 +78,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <p class="text-center">
-  <a href="https://www.eventbrite.ca/" target="_blank">
+  <a href="https://www.eventbrite.ca/e/library-carpentry-online-tickets-154610585423" target="_blank">
     <button type="button" class="btn btn-info">Register Here</button>
   </a>
 </p>
